@@ -50,12 +50,6 @@ export default function ContactPage() {
       description: "Send me an email anytime",
     },
     {
-      icon: Phone,
-      title: "Phone",
-      value: "+91 ******-**27",
-      description: "Call me during business hours",
-    },
-    {
       icon: MapPin,
       title: "Location",
       value: "MP, India",
