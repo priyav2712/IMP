@@ -1,5 +1,4 @@
-import { BlogPostClientPage } from "./BlogPostClientPage"
-import BlogPostClientPage from './BlogPostClientPage';
+import { BlogPostClientPage } from './BlogPostClientPage'; // ✅ only this one
 
 // This would typically come from a database or CMS
 const blogPosts = {
