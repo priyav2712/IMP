@@ -1,5 +1,3 @@
-"use client"
-
 import { BlogPostClientPage } from "./BlogPostClientPage"
 
 // This would typically come from a database or CMS
