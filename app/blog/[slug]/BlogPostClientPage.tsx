@@ -1,3 +1,4 @@
+"use client";
 // BlogPostClientPage.tsx
 export function BlogPostClientPage() {
   return <div>Hello from client page!</div>;
