@@ -1,3 +1,9 @@
+// BlogPostClientPage.tsx
+export function BlogPostClientPage() {
+  return <div>Hello from client page!</div>;
+}
+
+
 import { Navigation } from "@/components/navigation"
 import { Button } from "@/components/ui/button"
 import { Card, CardContent } from "@/components/ui/card"
@@ -5,11 +11,6 @@ import { Calendar, Clock, ArrowLeft, Share2, BookmarkPlus } from "lucide-react"
 import Image from "next/image"
 import Link from "next/link"
 import { notFound } from "next/navigation"
-export function BlogPostClientPage() {
-  return <div>Client-side Blog Page</div>;
-}
-
-
 // This would typically come from a database or CMS
 const blogPosts = {
   "building-scalable-react-applications": {
