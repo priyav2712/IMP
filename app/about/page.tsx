@@ -36,34 +36,27 @@ const skills = [
 
 const experience = [
   {
-    title: "Senior Full Stack Developer",
-    company: "Tech Solutions Inc.",
-    period: "2022 - Present",
-    description: "Leading development of scalable web applications using React, Node.js, and cloud technologies.",
-    achievements: ["Led team of 5 developers", "Increased performance by 40%", "Delivered 15+ projects"],
+    title: "Customer Care Executive",
+    company: "Teleperformance Global Business Private Limited",
+    period: "December 21, 2024 - June 01, 2025",
+    description: "Managed seller support and outbound calls for Flipkart at Teleperformance, addressing seller's issues, driving engagement, and ensuring smooth platform operations.",
+    achievements: ["Consistently exceeded daily call targets by 20%+ while maintaining quality metrics"],
   },
   {
-    title: "Frontend Developer",
-    company: "Digital Agency Co.",
-    period: "2020 - 2022",
+    title: "Customer Care Executive",
+    company: "Teleperformance Global Business Private Limited",
+    period: "January 17,2023 - March 05, 2024",
     description:
-      "Developed responsive web applications and collaborated with design teams to create engaging user experiences.",
-    achievements: ["Built 20+ responsive websites", "Improved user engagement by 60%", "Mentored junior developers"],
-  },
-  {
-    title: "Junior Developer",
-    company: "StartupXYZ",
-    period: "2019 - 2020",
-    description: "Built and maintained web applications while learning modern development practices and technologies.",
-    achievements: ["Contributed to 10+ projects", "Learned 5+ new technologies", "Received 'Rising Star' award"],
+      "Verified and approved 15,000+ driver documents for Uber London with 99% accuracy",
+    achievements: ["Ensured full compliance with UK transport and licensing regulations", "Consistently achieved top QA scores in weekly performance audits"],
   },
 ]
 
 const stats = [
-  { icon: Award, label: "Projects Completed", value: "50+" },
-  { icon: Coffee, label: "Cups of Coffee", value: "1000+" },
-  { icon: Heart, label: "Happy Clients", value: "30+" },
-  { icon: Code, label: "Lines of Code", value: "100K+" },
+  { icon: Award, label: "Projects Completed", value: "5+" },
+  { icon: Coffee, label: "Cups of Coffee", value: "500+" },
+  { icon: Heart, label: "Happy Clients", value: "0" },
+  { icon: Code, label: "Lines of Code", value: "1000+" },
 ]
 
 export default function AboutPage() {
