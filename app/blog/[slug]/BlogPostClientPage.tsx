@@ -1,10 +1,5 @@
 "use client";
 // BlogPostClientPage.tsx
-export function BlogPostClientPage() {
-  return <div>Hello from client page!</div>;
-}
-
-
 import { Navigation } from "@/components/navigation"
 import { Button } from "@/components/ui/button"
 import { Card, CardContent } from "@/components/ui/card"
