@@ -46,19 +46,19 @@ export default function ContactPage() {
     {
       icon: Mail,
       title: "Email",
-      value: "priyav@example.com",
+      value: "‎parakrambypriyav@​yahoo.com",
       description: "Send me an email anytime",
     },
     {
       icon: Phone,
       title: "Phone",
-      value: "+1 (555) 123-4567",
+      value: "+91 ******-**27",
       description: "Call me during business hours",
     },
     {
       icon: MapPin,
       title: "Location",
-      value: "San Francisco, CA",
+      value: "MP, India",
       description: "Available for local meetings",
     },
     {
@@ -219,18 +219,18 @@ export default function ContactPage() {
                 <CardContent className="space-y-4">
                   <div className="flex gap-4">
                     <Button variant="outline" asChild>
-                      <a href="https://github.com" target="_blank" rel="noopener noreferrer">
+                      <a href="https://github.com/priyav2712" target="_blank" rel="noopener noreferrer">
                         GitHub
                       </a>
                     </Button>
                     <Button variant="outline" asChild>
-                      <a href="https://linkedin.com" target="_blank" rel="noopener noreferrer">
+                      <a href="linkedin.com/in/priyav-8345b32ba" target="_blank" rel="noopener noreferrer">
                         LinkedIn
                       </a>
                     </Button>
                     <Button variant="outline" asChild>
-                      <a href="https://twitter.com" target="_blank" rel="noopener noreferrer">
-                        Twitter
+                      <a href="https://www.instagram.com/priyavyav/" target="_blank" rel="noopener noreferrer">
+                        Instagram
                       </a>
                     </Button>
                   </div>
